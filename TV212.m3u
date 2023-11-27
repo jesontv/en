@@ -46,8 +46,6 @@ http://iptv.10086.fund:23334/PLTV/88888888/224/3221227409/index.m3u8
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227407/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="SCTV-7高清",SCTV-7高清
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227405/index.m3u8
-#EXTINF:-1tvg-id="4"tvg-name="SCTV-科教高清",SCTV-科教高清
-http://iptv.10086.fund:23334/PLTV/88888888/224/3221227936/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="SCTV-9高清",SCTV-9高清
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227403/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="湖南卫视高清",湖南卫视高清
@@ -92,8 +90,6 @@ http://iptv.10086.fund:23334/PLTV/88888888/224/3221227935/index.m3u8
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227962/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="汽摩频道",汽摩频道
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227968/index.m3u8
-#EXTINF:-1tvg-id="4"tvg-name="上海纪实高清",上海纪实高清
-http://iptv.10086.fund:23334/PLTV/88888888/224/3221227349/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="CCTV-1高清",CCTV-1高清
 http://iptv.10086.fund:23334/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1tvg-id="4"tvg-name="CCTV-2高清",CCTV-2高清
